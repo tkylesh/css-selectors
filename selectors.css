@@ -1,0 +1,12 @@
+h1 {
+	border: 1px solid dodgerblue;
+}
+
+nav ul{
+	display: inline-block;
+	list-style-type: none;
+}
+
+.disabled{
+	color: gray;
+}
