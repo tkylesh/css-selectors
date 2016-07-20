@@ -10,3 +10,7 @@ nav ul{
 .disabled{
 	color: gray;
 }
+
+.active{
+	color: yellow;
+}
