@@ -38,3 +38,7 @@ nav ul{
 	font-weight: bold;
 	color: gold;
 }
+
+footer > input[type="text"]{
+	font-height: 25px;
+}
