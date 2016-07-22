@@ -14,3 +14,27 @@ nav ul{
 .active{
 	color: yellow;
 }
+
+.parent div:nth-child(1) {	
+	color: red;
+}
+
+.parent div:nth-child(3) {
+	color: blue;
+}
+.parent h4:nth-child(1){
+	background-color: red;
+}
+.parent h4:nth-child(2){
+	background-color: blue;
+	}
+
+.grandparent h4:nth-child(1n) {
+	border: 1px solid black;
+	border-radius: 20%;
+}
+
+.promo{
+	font-weight: bold;
+	color: gold;
+}
